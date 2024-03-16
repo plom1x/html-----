@@ -1,0 +1,39 @@
+.b{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+.v{
+    width: 18%;
+    height: 23%;
+    position: fixed;
+    margin-top: 5%;
+    margin-left: 8.5%;
+}
+.g{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    margin-top: 20%;
+    margin-left: 8.7%;
+}
+.t{
+    width: 17.5%;
+    height: 6%;
+    background: none;
+    border: none;
+    text-decoration-color: #b6b6b6;
+    color: #b6b6b6;
+    font-family: Arial;
+}
+.tt:hover{
+    border: 5px double #b6b6b6;
+}
+.w{
+    width: 18%;
+    height: 26%;
+    position: fixed;
+    margin-top: 37%;
+    margin-left: 8.5%;
+
+}

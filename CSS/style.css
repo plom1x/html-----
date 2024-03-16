@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(251, 234, 234);
+    background-image: url(/images/bg-logo-audi.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.t{
+    text-align: center;
+}
+.fl{
+    float: left;
+}
+.b{
+    border: 3px solid black;
+}
+.px {
+    height: 170px; 
+    width: 300px;
+}
+.bl{
+    color:blue;
+    text-decoration: none;
+}
+.re{
+    color: red;
+    text-decoration: none;
+}
+.nl:hover{
+    text-decoration: underline;
+}

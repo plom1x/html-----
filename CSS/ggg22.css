@@ -1,0 +1,51 @@
+.b{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+.l{
+    width: 30%;
+    height: 25%;
+    position: fixed;
+    margin-top: 2%;
+}
+.c{
+    width: 25%;
+    height: 30%;
+    position: fixed;
+    margin-top: 4%;
+    margin-left: 72%;
+
+}
+.e{
+    width: 30%;
+    height: 15%;
+    position: fixed;
+    margin-top: 38%;
+    margin-left: 2%;
+    background: none;
+    resize: none;
+    color: #b6b6b6;
+    font-family: Arial;
+    border: 5px double #757223;
+}
+.ee{
+    width: 30.1%;
+    height: 3%;
+    position: fixed;
+    margin-top: 46.7%;
+    margin-left: 2%;
+    border: 5px double #757223;
+}
+.bb{
+    height: 5%;
+    position: fixed;
+    margin-top: 51.7%;
+    margin-left: 2%;
+    border: 5px double black;
+    background-color: black;
+    color: #b6b6b6;
+}
+.bbb:hover{
+    border: 5px double #b6b6b6;
+}

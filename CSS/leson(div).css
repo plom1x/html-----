@@ -1,0 +1,30 @@
+.f{
+    font-family: cursive;
+}
+.g{
+    background-color: silver;
+}
+.h{
+    width: 300px;
+}
+.j{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.k{
+    width: 250px;
+}
+.m{
+    width: 150px;
+    height: 25px;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: cursive;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.ml:hover{
+    background-color: red;
+    color: white;
+}
